@@ -1,0 +1,3 @@
+# KRINC
+
+Krinc Webpage
