@@ -15,6 +15,6 @@
         "name" : "Kron",
         "age" : "23",
         "isProgrammer" : true,
-        "Dept" : "DevOps"
+        "Dept" : null
     }
 ]
