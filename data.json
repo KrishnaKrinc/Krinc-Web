@@ -1,0 +1,16 @@
+{
+    "name" : "Krishna",
+    "age" : "20",
+    "Phone" : "7708888416",
+    "isProgrammer" : true,
+    "hobbies" : ["Coding", "Eating", "Sleeping"],
+    "friends" : [{
+            "name" : "Krinc",
+            "isProgrammer" : false
+        },
+        {
+            "name" : "Kron",
+            "isProgrammer" : true
+        }
+    ]
+}
